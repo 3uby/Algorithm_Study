@@ -1,27 +1,23 @@
 <div align=center>
-  
 
-
-
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+ <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+<img src="https://img.shields.io/badge/Python-white?style=for-the-badge&logo=Python&logoColor={로고 색깔}"/>
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 
 </div>
 
 ---
 #  알고리즘 스터디 
 알고리즘 및 코딩테스트 문제 풀이 스터디입니다.
-## 사용 언어 
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
- <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-<img src="https://img.shields.io/badge/Python-white?style=for-the-badge&logo=Python&logoColor={로고 색깔}"/>
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 
 <br />
 <br />
 
-## ✅ 참여 방법
-1. 이 저장소를 `fork` 한다.
-2. 생성된 원격 저장소에 `이름` 혹은 `github ID`로 폴더를 생성한다.
-3. 생성된 폴더에 자신이 문제를 푼 소스코드를 업로드 한다.
+## ✅ 참여 방식 
+1. 리포지토리를 `fork` 한다.
+2. 생성된 원격 저장소에 `이름` 혹은  `github ID`로 폴더를 생성한다.
+3. 자신의 폴더에 문제를 푼 소스코드를 `Commit` 한다.
 5. 원본 저장소로 `Pull Request`를 한다.
 6. 다른 사람들의 PR을 보고 코드리뷰를 한다.
 7. ***🚫 주의 🚫 기존 폴더를 지우면 안됩니다*** 
@@ -34,15 +30,16 @@
 - description: 문제 주소
 - 터미널에서 작성법: 
 
-> ```
-> git commit -m "[BOJ] Hello World / 브론즈5 / 1분" -m "https://www.acmicpc.net/problem/2557"
-> ```
-* 플랫폼 작성법 통일: 
-  * [BOJ] - 백준 
-  * [PGS] - 프로그래머스
-  * [LTC] - Leetcode 
-  * [CFS] - CodeForce 
-  * [ETC] - 그외
+```
+ git commit -m "[BOJ] Hello World / 브론즈5 / 1분" -m "https://www.acmicpc.net/problem/2557"
+```
+
+* 플랫폼 작성법 : 
+  * **[BOJ]** - 백준 
+  * **[PGS]** - 프로그래머스
+  * **[LTC]** - Leetcode 
+  * **[CFS]** - CodeForce 
+  * **[ETC]** - 그외
 
 <br />
 <br />
