@@ -1,7 +1,7 @@
 <div align=center>
 
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
- <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+<img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 <img src="https://img.shields.io/badge/Python-white?style=for-the-badge&logo=Python&logoColor={로고 색깔}"/>
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 
@@ -13,6 +13,8 @@
 #  알고리즘 스터디 
 알고리즘 및 코딩테스트 문제 풀이 스터디입니다.
 문제의 해결방안을 탐색하고 문제를 풀고 스터디 인원들끼리 코드리뷰를 진행합니다.
+자신이 코드를 짜는것 뿐만 아니라 다른 사람이 자신의 코드를 읽고 쉽게 이해할수있게 코드를 작성함으로서 협업을 위해 간단명료한 코드를 작성하는 능력을 길러줍니다.
+또한 다른 사람의 코드를 리뷰함으로써 단점과 좋은점 더 좋은방법을 제시할수있고 자신이 알고있는 지식을 간단한 `코멘트`로 설명하며 더 탄탄한 배경지식을 가질수있습니다. 
 
 <br />
 <br />
@@ -66,3 +68,4 @@
 ## 진행률
 <img src="https://progress-bar.dev/0?title=3uby&scale=500&width=120&color=gray&suffix=++" />
 <img src="https://progress-bar.dev/0?title=Yong&scale=500&width=120&color=gray&suffix=++" />
+<img src="https://progress-bar.dev/0?title=Minsung&scale=500&width=120&color=gray&suffix=++" />
