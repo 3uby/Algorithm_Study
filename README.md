@@ -40,11 +40,11 @@
 ```
 
 * 플랫폼 작성법 : 
-  * **[BOJ]** - 백준 
-  * **[PGS]** - 프로그래머스
-  * **[LTC]** - Leetcode 
-  * **[CFS]** - CodeForce 
-  * **[ETC]** - 그외
+  * **[BOJ]** - [백준](https://www.acmicpc.net/)
+  * **[PGS]** - [프로그래머스](https://programmers.co.kr/)
+  * **[LTC]** - [Leetcode](https://leetcode.com/)
+  * **[CFS]** - [CodeForce](https://codeforces.com/)
+  * **[ETC]** - 그 외
 
 <br />
 <br />
