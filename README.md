@@ -69,3 +69,9 @@
 <img src="https://progress-bar.dev/0?title=3uby&scale=500&width=120&color=gray&suffix=++" />
 <img src="https://progress-bar.dev/0?title=Yong&scale=500&width=120&color=gray&suffix=++" />
 <img src="https://progress-bar.dev/0?title=Minsung&scale=500&width=120&color=gray&suffix=++" />
+
+## 언어와 친해지기 ( `김민성` 필독 )
+[CodeUp기초100제/c언어](https://codeup.kr/problemsetsol.php?psid=23)
+[CodeUp기초100제/c언어](https://codeup.kr/problemsetsol.php?psid=33)
+
+
