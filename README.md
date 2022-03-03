@@ -7,7 +7,7 @@
 
 </div>
 
-# [진행률] (#진행률)
+# [진행률](#진행률)
 
 ---
 #  알고리즘 스터디 
@@ -64,4 +64,5 @@
 <br />
 
 ## 진행률
-<img src=https://progress-bar.dev/20?title=3uby />
+<img src="https://progress-bar.dev/20?title=3uby" />
+<img src="https://progress-bar.dev/20?title=Yong" />
