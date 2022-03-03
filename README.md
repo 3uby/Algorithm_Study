@@ -64,5 +64,5 @@
 <br />
 
 ## 진행률
-<img src="https://progress-bar.dev/20?title=3uby" />
-<img src="https://progress-bar.dev/20?title=Yong" />
+<img src="https://progress-bar.dev/0?title=3uby&scale=500&width=120&color=gray&suffix=++" />
+<img src="https://progress-bar.dev/0?title=Yong&scale=500&width=120&color=gray&suffix=++" />
