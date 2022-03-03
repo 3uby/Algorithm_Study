@@ -73,5 +73,3 @@
 ## 언어와 친해지기 ( `김민성` 필독 )
 [CodeUp기초100제/c언어](https://codeup.kr/problemsetsol.php?psid=23) <br />
 [CodeUp기초100제/Python](https://codeup.kr/problemsetsol.php?psid=33) <br />
-
-
