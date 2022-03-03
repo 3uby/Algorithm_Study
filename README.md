@@ -6,7 +6,9 @@
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 
 </div>
-![진행률] (#진행률)
+
+# [진행률] (#진행률)
+
 ---
 #  알고리즘 스터디 
 알고리즘 및 코딩테스트 문제 풀이 스터디입니다.
@@ -62,4 +64,4 @@
 <br />
 
 ## 진행률
-[100%](https://progress-bar.dev/20?title=3uby)
+<img src=https://progress-bar.dev/20?title=3uby />
